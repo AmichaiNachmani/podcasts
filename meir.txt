@@ -20,7 +20,7 @@
 			<link>https://meirtv.com/shiurim/shiur-71081/</link>
 			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> מה בין עבודת המידות לתפילה ולימוד תורה ?<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 1 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71081/'>https://meirtv.com/shiurim/shiur-71081/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
 			<guid>https://meirtv.com/shiurim/shiur-71081/</guid>
-			<pubDate>14 Oct 18 19:52 +0300</pubDate>
+			<pubDate>Sun, 14 Oct 2018 19:52 GMT</pubDate>
 			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/idx%2071081.mp3' length='1000000' type='audio/mpeg'/>
 			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/732321208-5b66cfee52d37a8bb4415360f5fe0eca4b3084536ba0423e9393efc44ad470b9-d_640.jpeg'/>
 			<itunes:keywords>עבודת המידות, ענוה פסולה, צניעות</itunes:keywords>
