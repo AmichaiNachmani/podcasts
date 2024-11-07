@@ -21,7 +21,6 @@
   <ItemGroup>
     <Content Include=".gitignore" />
     <Content Include="meir.txt" />
-    <Content Include="rss.txt" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="rss.py" />
