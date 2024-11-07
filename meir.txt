@@ -15,12 +15,265 @@
 		<atom:link href='https://meirtv.com/rss/shiurim-series/22979/' rel='self' type='application/rss+xml'/>
 		<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/20230720_110715_30934c6727ab76d53225630f222110ae-Copy-2-scaled.jpg'/>
 		<item>
+			<title>מידת האהבה</title>
+			<itunes:episode>24</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71104/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> מידת האהבה<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 24 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71104/'>https://meirtv.com/shiurim/shiur-71104/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71104/</guid>
+			<pubDate>04 Aug 19 15:31 +0300</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071104.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/20230720_110715_30934c6727ab76d53225630f222110ae-Copy-2-scaled.jpg'/>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>&quot;והאלהים יבקש את נרדף&quot; &#8211;  מידות שנבנות על ידי קושי ומצוקה</title>
+			<itunes:episode>23</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71103/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> &quot;והאלהים יבקש את נרדף&quot; &#8211;  מידות שנבנות על ידי קושי ומצוקה<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 23 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71103/'>https://meirtv.com/shiurim/shiur-71103/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71103/</guid>
+			<pubDate>28 Jul 19 16:29 +0300</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071103.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/20230720_110715_30934c6727ab76d53225630f222110ae-Copy-2-scaled.jpg'/>
+			<itunes:keywords>ביוש, והאלהים יבקש את נרדף, חרמות, מצוקה, רדיפה תקשורתית, שיימינג</itunes:keywords>
+		</item>
+		<item>
+			<title>מה המקום של הכעס ?</title>
+			<itunes:episode>22</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71102/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> מה המקום של הכעס ?<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 22 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71102/'>https://meirtv.com/shiurim/shiur-71102/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71102/</guid>
+			<pubDate>15 Jul 19 19:22 +0300</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071102.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/20230720_110715_30934c6727ab76d53225630f222110ae-Copy-2-scaled.jpg'/>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>האם ניתן לחנך בלי מתח, כפיה או יסורים ?</title>
+			<itunes:episode>21</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71101/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> האם ניתן לחנך בלי מתח, כפיה או יסורים ?<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 21 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71101/'>https://meirtv.com/shiurim/shiur-71101/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71101/</guid>
+			<pubDate>07 Jul 19 17:49 +0300</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071101.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/20230720_110715_30934c6727ab76d53225630f222110ae-Copy-2-scaled.jpg'/>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>מניעת ההוצאה לפועל של כשרונות ויצירה מביאים לכעס &#8211; הרב ליאור אנגלמן</title>
+			<itunes:episode>20</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71100/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> מניעת ההוצאה לפועל של כשרונות ויצירה מביאים לכעס &#8211; הרב ליאור אנגלמן<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 20 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71100/'>https://meirtv.com/shiurim/shiur-71100/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71100/</guid>
+			<pubDate>30 Jun 19 18:49 +0300</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071100.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/11/הרב-ליאור-אנגלמן-e1622382643380-1400x1400.png'/>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>תוצאות הכעס &#8211; איבוד שליטה ואיבוד צלם אלהים</title>
+			<itunes:episode>19</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71099/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> תוצאות הכעס &#8211; איבוד שליטה ואיבוד צלם אלהים<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 19 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71099/'>https://meirtv.com/shiurim/shiur-71099/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71099/</guid>
+			<pubDate>23 Jun 19 16:30 +0300</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071099.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/793259545-52a8644d1c5f7b92a0c187a04fa67b992640adec3e23ed4a6418e9e067fbb123-d_295x166.jpeg'/>
+			<itunes:keywords>דיבור בנחת, חסרון היצירה הרוחנית, כעס, שליטה על רגשות</itunes:keywords>
+		</item>
+		<item>
+			<title>להאריך את הפתיל &#8230;</title>
+			<itunes:episode>18</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71098/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> להאריך את הפתיל &#8230;<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 18 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71098/'>https://meirtv.com/shiurim/shiur-71098/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71098/</guid>
+			<pubDate>16 Jun 19 19:11 +0300</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071098.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/20230720_110715_30934c6727ab76d53225630f222110ae-Copy-2-scaled.jpg'/>
+			<itunes:keywords/>
+		</item>
+		<item>
+			<title>האם צניעות היא ערך אוניברסלי או ששייכת רק לדתיים ?</title>
+			<itunes:episode>17</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71097/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> האם צניעות היא ערך אוניברסלי או ששייכת רק לדתיים ?<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 17 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71097/'>https://meirtv.com/shiurim/shiur-71097/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71097/</guid>
+			<pubDate>31 Mar 19 20:02 +0300</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071097.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/771858836-a60c99ede2b1489183c64618a5b2a9c7c11f65c6f3993e3b41bfe550c1e19537-d_640.jpeg'/>
+			<itunes:keywords>הלויית המת, הספר &#039;כתנות אור&#039;, הרב אוריאל עיטם, צניעות</itunes:keywords>
+		</item>
+		<item>
+			<title>צניעות : שתיקה והסתרה</title>
+			<itunes:episode>16</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71096/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> צניעות : שתיקה והסתרה<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 16 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71096/'>https://meirtv.com/shiurim/shiur-71096/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71096/</guid>
+			<pubDate>24 Mar 19 18:26 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071096.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/770123675-0ceb862b175869548cfdfb52cf82abbc1ea4f29b6978a9ebc625142e67d04ea1-d_640.jpeg'/>
+			<itunes:keywords>צניעות</itunes:keywords>
+		</item>
+		<item>
+			<title>הקשר המקודש בין איש לאשתו קדם לרגש הבושה</title>
+			<itunes:episode>15</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71095/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> הקשר המקודש בין איש לאשתו קדם לרגש הבושה<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 15 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71095/'>https://meirtv.com/shiurim/shiur-71095/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71095/</guid>
+			<pubDate>24 Feb 19 19:33 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071095.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/770119346-b8a4277b07ef95f2a21d1aaeca72bcc2d91d9625e0c72841b9548a48ba61786f-d_640.jpeg'/>
+			<itunes:keywords>בושה, תורת האבולוציה, תורת ההתפתחות</itunes:keywords>
+		</item>
+		<item>
+			<title>ממי אתה באמת מתבייש ? &#8211; על בושה ועזות</title>
+			<itunes:episode>14</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71094/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> ממי אתה באמת מתבייש ? &#8211; על בושה ועזות<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 14 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71094/'>https://meirtv.com/shiurim/shiur-71094/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71094/</guid>
+			<pubDate>17 Feb 19 15:07 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071094.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/760093555-594e554795612619c53761d90be765d7dc961428794de345726e92df5a63b02d-d_640.jpeg'/>
+			<itunes:keywords>בושה</itunes:keywords>
+		</item>
+		<item>
+			<title>בושה ועזות דקדושה</title>
+			<itunes:episode>13</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71093/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> בושה ועזות דקדושה<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 13 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71093/'>https://meirtv.com/shiurim/shiur-71093/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71093/</guid>
+			<pubDate>10 Feb 19 15:18 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071093.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/760094851-7abf0bcc1829db0d27033a406662d5f5533ada4c71ff495bc2a419706baab3f5-d_640.jpeg'/>
+			<itunes:keywords>בושה, מידת העזות, עזות דקדושה</itunes:keywords>
+		</item>
+		<item>
+			<title>האנחה היא פעולה שמייצרת ייסורים</title>
+			<itunes:episode>12</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71092/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> האנחה היא פעולה שמייצרת ייסורים<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 12 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71092/'>https://meirtv.com/shiurim/shiur-71092/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71092/</guid>
+			<pubDate>03 Feb 19 15:10 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071092.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/760093612-40dd805fcb9428d5dca8eea1eac9eb39e9fd0270d8738a29cf043209cfbc537e-d_640.jpeg'/>
+			<itunes:keywords>סוד האנחה</itunes:keywords>
+		</item>
+		<item>
+			<title>האם איפוק זה כח או תירוץ לרכרוכיות שלי ?</title>
+			<itunes:episode>11</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71091/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> האם איפוק זה כח או תירוץ לרכרוכיות שלי ?<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 11 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71091/'>https://meirtv.com/shiurim/shiur-71091/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71091/</guid>
+			<pubDate>27 Jan 19 15:09 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071091.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/760094163-85c547aa94ae17722f4a552cedb460bb3b2a47909679347d58accd0dc36f0869-d_640.jpeg'/>
+			<itunes:keywords>איפוק, מידת הגבורה</itunes:keywords>
+		</item>
+		<item>
+			<title>אתה לא ירא שמיים ,אתה פשוט פחדן !</title>
+			<itunes:episode>10</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71090/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> אתה לא ירא שמיים ,אתה פשוט פחדן !<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 10 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71090/'>https://meirtv.com/shiurim/shiur-71090/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71090/</guid>
+			<pubDate>13 Jan 19 12:27 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071090.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/760093715-3b110ff21d50c2869736dfd55d4a84b9a58d5d9fe937651a14011bbfbd5fc310-d_640-1.jpeg'/>
+			<itunes:keywords>יראת שמיים, פחד</itunes:keywords>
+		</item>
+		<item>
+			<title>הדעת , הפחד והעין האנושית</title>
+			<itunes:episode>9</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71089/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> הדעת , הפחד והעין האנושית<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 9 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71089/'>https://meirtv.com/shiurim/shiur-71089/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71089/</guid>
+			<pubDate>06 Jan 19 16:40 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071089.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/760092440-d84dba1356e8f82e9a06fc1d149e3ae764a6e24f87c161b7322baad1a9db1481-d_640.jpeg'/>
+			<itunes:keywords>הרב אלישע וישליצקי זצ&quot;ל, פחד</itunes:keywords>
+		</item>
+		<item>
+			<title>הפחד : נבואה  שמגשימה את עצמה</title>
+			<itunes:episode>8</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71088/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> הפחד : נבואה  שמגשימה את עצמה<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 8 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71088/'>https://meirtv.com/shiurim/shiur-71088/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71088/</guid>
+			<pubDate>30 Dec 18 17:24 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071088.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/760095275-ca650f078fa38bb2d79d1c393cccb42929f3c92e78f68297f1290b77e3fb80d0-d_640.jpeg'/>
+			<itunes:keywords>מגור, פחד</itunes:keywords>
+		</item>
+		<item>
+			<title>איך מתקנים את מידת הקנאה ?</title>
+			<itunes:episode>7</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71087/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> איך מתקנים את מידת הקנאה ?<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 7 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71087/'>https://meirtv.com/shiurim/shiur-71087/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71087/</guid>
+			<pubDate>16 Dec 18 17:44 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071087.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/760093664-bbad0361af1e3e311f0ad3b03af3b8f4dfbbeffa9f760ab25cbb29b46114bda9-d_640-1.jpeg'/>
+			<itunes:keywords>קנאה</itunes:keywords>
+		</item>
+		<item>
+			<title>מה הצד החיובי שיש במידת הקנאה ?</title>
+			<itunes:episode>6</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71086/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> מה הצד החיובי שיש במידת הקנאה ?<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 6 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71086/'>https://meirtv.com/shiurim/shiur-71086/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71086/</guid>
+			<pubDate>25 Nov 18 16:08 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071086.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/741522493-e89d7c1e100a4edaf7ee0ce48c338ca30efc3c6fb61052ac5e67bd1ccab03bfd-d_640.jpeg'/>
+			<itunes:keywords>קנאה</itunes:keywords>
+		</item>
+		<item>
+			<title>הפתרון למידת הקנאה האוניברסלית &#8211; להידבק במידותיו של הבורא</title>
+			<itunes:episode>5</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71085/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> הפתרון למידת הקנאה האוניברסלית &#8211; להידבק במידותיו של הבורא<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 5 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71085/'>https://meirtv.com/shiurim/shiur-71085/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71085/</guid>
+			<pubDate>18 Nov 18 14:38 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071085.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/740873790-04a5490f8d1e111341aca6bdf102fec650d98c1d2c48a524d407e01e8d37ad76-d_640.jpeg'/>
+			<itunes:keywords>אדם וחוה, נחש הקדמוני, פרפקציוניזם, קנאה, קנאת האדם באלהים</itunes:keywords>
+		</item>
+		<item>
+			<title>&quot;אני מקנא ? מה פתאום !&quot; &#8211; מידת הקנאה : רקבון, טמטום ועקמימות הדעת שהיא מביאה</title>
+			<itunes:episode>4</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71084/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> &quot;אני מקנא ? מה פתאום !&quot; &#8211; מידת הקנאה : רקבון, טמטום ועקמימות הדעת שהיא מביאה<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 4 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71084/'>https://meirtv.com/shiurim/shiur-71084/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71084/</guid>
+			<pubDate>11 Nov 18 14:32 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071084.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/738637858-3e5bf36e3bc30251a9c546418a1f54d20cd6ec051020311683a173516b88a4bf-d_640.jpeg'/>
+			<itunes:keywords>זקנה, פרפקציוניזם, צעירים, קנאה, קנאת האדם באלהים</itunes:keywords>
+		</item>
+		<item>
+			<title>בניין העולם לא על ידי שבירת הרע אלא תיקונו בסבלנות</title>
+			<itunes:episode>3</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71083/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> בניין העולם לא על ידי שבירת הרע אלא תיקונו בסבלנות<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 3 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71083/'>https://meirtv.com/shiurim/shiur-71083/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71083/</guid>
+			<pubDate>28 Oct 18 18:10 +0200</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071083.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/735413924-383b3c89d703a696b524b649504fe38b5758f8e045ef066ec7168de95862251f-d_640.jpeg'/>
+			<itunes:keywords>טומאה וטהרה בכלים, טומאת כלי מתכות, שלומציון המלכה, שמעון בן שטח</itunes:keywords>
+		</item>
+		<item>
+			<title>&quot;שקוף למשתמש&quot;  &#8211; בעבודת המידות אי אפשר לרמות . כל אדם יודע את מצבו וערכו</title>
+			<itunes:episode>2</itunes:episode>
+			<link>https://meirtv.com/shiurim/shiur-71082/</link>
+			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> &quot;שקוף למשתמש&quot;  &#8211; בעבודת המידות אי אפשר לרמות . כל אדם יודע את מצבו וערכו<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 2 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71082/'>https://meirtv.com/shiurim/shiur-71082/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
+			<guid>https://meirtv.com/shiurim/shiur-71082/</guid>
+			<pubDate>21 Oct 18 20:18 +0300</pubDate>
+			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/Idx%2071082.mp3' length='1000000' type='audio/mpeg'/>
+			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/734379900-50e7ccedbdcfd2d10fedd7a2d3b5655af070d53de86f8635ec808f92d3a8aa27-d_640-1.jpeg'/>
+			<itunes:keywords>דבקות בבורא, והלכת בדרכיו, להתדמות לבורא, עבודת המידות</itunes:keywords>
+		</item>
+		<item>
 			<title>מה בין עבודת המידות לתפילה ולימוד תורה ?</title>
 			<itunes:episode>1</itunes:episode>
 			<link>https://meirtv.com/shiurim/shiur-71081/</link>
 			<description><![CDATA[<div style='text-align: right;'><b>כותרת:</b> מה בין עבודת המידות לתפילה ולימוד תורה ?<br/><b>תיאור:</b> מידות הנפש ותיקונן<br/><b>פרק:</b> 1 מתוך 24 פרקים<br/><div><b>תרומה: רוצים להיות שותפים?</b> <a href='https://meirtv.com/donate-machon'>תרמו כאן</a><br></div><b>לצפייה בווידאו:</b> <a href='https://meirtv.com/shiurim/shiur-71081/'>https://meirtv.com/shiurim/shiur-71081/</a><br/><b>לצפייה בכל הפרקים של הפודקאסט בווידאו:</b> <a href='https://meirtv.com/shiurim-series/22979/'>https://meirtv.com/shiurim-series/22979/</a><br/></div>]]></description>
 			<guid>https://meirtv.com/shiurim/shiur-71081/</guid>
-			<pubDate>Sun, 14 Oct 2018 19:52 GMT</pubDate>
+			<pubDate>14 Oct 18 19:52 +0300</pubDate>
 			<enclosure url='https://mp3.meirtv.co.il//Rabanim%20Shonim/New005/idx%2071081.mp3' length='1000000' type='audio/mpeg'/>
 			<itunes:image href='https://meirtv.com/wp-content/uploads/2023/07/732321208-5b66cfee52d37a8bb4415360f5fe0eca4b3084536ba0423e9393efc44ad470b9-d_640.jpeg'/>
 			<itunes:keywords>עבודת המידות, ענוה פסולה, צניעות</itunes:keywords>
